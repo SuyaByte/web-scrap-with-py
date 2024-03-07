@@ -24,7 +24,7 @@ The following libraries are needed for this lab.
 - A GET request is sent to the server using the web link. and the response HTML page is stored.
 - The text in HTML is parsed using BeautifulSoup.
 - The web page is inspected and the html code is analysed to identify the table that has our required information.
-- SCraping of the required information is done. Each row is stored into a dictionary which is converted into a temporary dataframe.
+- Scraping of the required information is done. Each row is stored into a dictionary which is converted into a temporary dataframe.
 - The temporary dataframe is concatenated to the original empty dataframe.
 - A counter is maintained to get only 50 records data.
 - The data in the dataframe is loaded into a CSV file.
